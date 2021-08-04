@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/cursor-react-hooks/static/css/main.a617e044.chunk.css",
-    "main.js": "/cursor-react-hooks/static/js/main.4e0ab328.chunk.js",
-    "main.js.map": "/cursor-react-hooks/static/js/main.4e0ab328.chunk.js.map",
-    "runtime-main.js": "/cursor-react-hooks/static/js/runtime-main.d8eb17ec.js",
-    "runtime-main.js.map": "/cursor-react-hooks/static/js/runtime-main.d8eb17ec.js.map",
-    "static/js/2.db5e969d.chunk.js": "/cursor-react-hooks/static/js/2.db5e969d.chunk.js",
-    "static/js/2.db5e969d.chunk.js.map": "/cursor-react-hooks/static/js/2.db5e969d.chunk.js.map",
-    "static/js/3.dff83944.chunk.js": "/cursor-react-hooks/static/js/3.dff83944.chunk.js",
-    "static/js/3.dff83944.chunk.js.map": "/cursor-react-hooks/static/js/3.dff83944.chunk.js.map",
+    "main.css": "/cursor-react-hooks/static/css/main.2bb3a6b2.chunk.css",
+    "main.js": "/cursor-react-hooks/static/js/main.e737f0b7.chunk.js",
+    "main.js.map": "/cursor-react-hooks/static/js/main.e737f0b7.chunk.js.map",
+    "runtime-main.js": "/cursor-react-hooks/static/js/runtime-main.7f9e2465.js",
+    "runtime-main.js.map": "/cursor-react-hooks/static/js/runtime-main.7f9e2465.js.map",
+    "static/js/2.8ff6fbb0.chunk.js": "/cursor-react-hooks/static/js/2.8ff6fbb0.chunk.js",
+    "static/js/2.8ff6fbb0.chunk.js.map": "/cursor-react-hooks/static/js/2.8ff6fbb0.chunk.js.map",
+    "static/js/3.5fe36a91.chunk.js": "/cursor-react-hooks/static/js/3.5fe36a91.chunk.js",
+    "static/js/3.5fe36a91.chunk.js.map": "/cursor-react-hooks/static/js/3.5fe36a91.chunk.js.map",
     "index.html": "/cursor-react-hooks/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/cursor-react-hooks/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.db5e969d.chunk.js.LICENSE.txt": "/cursor-react-hooks/static/js/2.db5e969d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/cursor-react-hooks/static/media/logo.6ce24c58.svg"
+    "static/css/main.2bb3a6b2.chunk.css.map": "/cursor-react-hooks/static/css/main.2bb3a6b2.chunk.css.map",
+    "static/js/2.8ff6fbb0.chunk.js.LICENSE.txt": "/cursor-react-hooks/static/js/2.8ff6fbb0.chunk.js.LICENSE.txt",
+    "static/media/gender-female.f4d3c0db.svg": "/cursor-react-hooks/static/media/gender-female.f4d3c0db.svg",
+    "static/media/gender-male.8c55021b.svg": "/cursor-react-hooks/static/media/gender-male.8c55021b.svg",
+    "static/media/gender-undefined.fed7cf99.svg": "/cursor-react-hooks/static/media/gender-undefined.fed7cf99.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8eb17ec.js",
-    "static/js/2.db5e969d.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.4e0ab328.chunk.js"
+    "static/js/runtime-main.7f9e2465.js",
+    "static/js/2.8ff6fbb0.chunk.js",
+    "static/css/main.2bb3a6b2.chunk.css",
+    "static/js/main.e737f0b7.chunk.js"
   ]
 }
